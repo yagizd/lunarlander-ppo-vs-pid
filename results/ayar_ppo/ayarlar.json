@@ -1,0 +1,258 @@
+{
+ "uretici_tohumu": 6001,
+ "sb3_surumu": "2.9.0",
+ "cekim_sayisi": 16,
+ "referans_varsayilan": {
+  "learning_rate": 0.0003,
+  "n_steps": 2048,
+  "batch_size": 64,
+  "n_epochs": 10,
+  "gamma": 0.99,
+  "gae_lambda": 0.95,
+  "ent_coef": 0.0,
+  "clip_range": 0.2,
+  "net_arch": "dict(pi=[64, 64], vf=[64, 64]) (policies.py: net_arch None -> bu); liste [64,64] ile ayni"
+ },
+ "ayarlar": [
+  {
+   "id": 0,
+   "learning_rate": 0.0012227299701732658,
+   "n_steps": 1024,
+   "batch_size": 512,
+   "n_epochs": 5,
+   "gamma": 0.99,
+   "gae_lambda": 0.98,
+   "ent_coef": 0.0001,
+   "clip_range": 0.2,
+   "net_arch": [
+    128,
+    128
+   ]
+  },
+  {
+   "id": 1,
+   "learning_rate": 0.00018397321000781047,
+   "n_steps": 2048,
+   "batch_size": 64,
+   "n_epochs": 5,
+   "gamma": 0.999,
+   "gae_lambda": 0.95,
+   "ent_coef": 0.01,
+   "clip_range": 0.3,
+   "net_arch": [
+    128,
+    128
+   ]
+  },
+  {
+   "id": 2,
+   "learning_rate": 0.0012706138462338504,
+   "n_steps": 2048,
+   "batch_size": 64,
+   "n_epochs": 10,
+   "gamma": 0.98,
+   "gae_lambda": 0.9,
+   "ent_coef": 0.01,
+   "clip_range": 0.3,
+   "net_arch": [
+    256,
+    256
+   ]
+  },
+  {
+   "id": 3,
+   "learning_rate": 0.000333142883278101,
+   "n_steps": 2048,
+   "batch_size": 64,
+   "n_epochs": 5,
+   "gamma": 0.99,
+   "gae_lambda": 0.95,
+   "ent_coef": 0.0001,
+   "clip_range": 0.3,
+   "net_arch": [
+    256,
+    256
+   ]
+  },
+  {
+   "id": 4,
+   "learning_rate": 0.0008209842450383453,
+   "n_steps": 2048,
+   "batch_size": 512,
+   "n_epochs": 10,
+   "gamma": 0.995,
+   "gae_lambda": 0.9,
+   "ent_coef": 0,
+   "clip_range": 0.3,
+   "net_arch": [
+    128,
+    128
+   ]
+  },
+  {
+   "id": 5,
+   "learning_rate": 0.0009064852494592153,
+   "n_steps": 2048,
+   "batch_size": 64,
+   "n_epochs": 5,
+   "gamma": 0.99,
+   "gae_lambda": 0.95,
+   "ent_coef": 0.01,
+   "clip_range": 0.3,
+   "net_arch": [
+    256,
+    256
+   ]
+  },
+  {
+   "id": 6,
+   "learning_rate": 0.00022094071110865436,
+   "n_steps": 2048,
+   "batch_size": 64,
+   "n_epochs": 10,
+   "gamma": 0.99,
+   "gae_lambda": 0.98,
+   "ent_coef": 0.001,
+   "clip_range": 0.1,
+   "net_arch": [
+    64,
+    64
+   ]
+  },
+  {
+   "id": 7,
+   "learning_rate": 0.00010535813657864546,
+   "n_steps": 2048,
+   "batch_size": 64,
+   "n_epochs": 5,
+   "gamma": 0.995,
+   "gae_lambda": 0.9,
+   "ent_coef": 0,
+   "clip_range": 0.2,
+   "net_arch": [
+    128,
+    128
+   ]
+  },
+  {
+   "id": 8,
+   "learning_rate": 0.0016755841987124895,
+   "n_steps": 1024,
+   "batch_size": 128,
+   "n_epochs": 10,
+   "gamma": 0.995,
+   "gae_lambda": 0.9,
+   "ent_coef": 0,
+   "clip_range": 0.2,
+   "net_arch": [
+    256,
+    256
+   ]
+  },
+  {
+   "id": 9,
+   "learning_rate": 0.0004136405618871205,
+   "n_steps": 4096,
+   "batch_size": 512,
+   "n_epochs": 20,
+   "gamma": 0.995,
+   "gae_lambda": 0.9,
+   "ent_coef": 0.001,
+   "clip_range": 0.2,
+   "net_arch": [
+    64,
+    64
+   ]
+  },
+  {
+   "id": 10,
+   "learning_rate": 0.0007373809680764601,
+   "n_steps": 2048,
+   "batch_size": 256,
+   "n_epochs": 10,
+   "gamma": 0.99,
+   "gae_lambda": 0.9,
+   "ent_coef": 0.0001,
+   "clip_range": 0.3,
+   "net_arch": [
+    256,
+    256
+   ]
+  },
+  {
+   "id": 11,
+   "learning_rate": 0.00035049914264394607,
+   "n_steps": 2048,
+   "batch_size": 64,
+   "n_epochs": 5,
+   "gamma": 0.98,
+   "gae_lambda": 0.98,
+   "ent_coef": 0.01,
+   "clip_range": 0.3,
+   "net_arch": [
+    128,
+    128
+   ]
+  },
+  {
+   "id": 12,
+   "learning_rate": 0.00037294264153465095,
+   "n_steps": 2048,
+   "batch_size": 512,
+   "n_epochs": 5,
+   "gamma": 0.99,
+   "gae_lambda": 0.98,
+   "ent_coef": 0.01,
+   "clip_range": 0.2,
+   "net_arch": [
+    64,
+    64
+   ]
+  },
+  {
+   "id": 13,
+   "learning_rate": 0.0005060400199389807,
+   "n_steps": 512,
+   "batch_size": 256,
+   "n_epochs": 20,
+   "gamma": 0.995,
+   "gae_lambda": 0.98,
+   "ent_coef": 0,
+   "clip_range": 0.1,
+   "net_arch": [
+    256,
+    256
+   ]
+  },
+  {
+   "id": 14,
+   "learning_rate": 0.0010226702049833155,
+   "n_steps": 4096,
+   "batch_size": 128,
+   "n_epochs": 10,
+   "gamma": 0.995,
+   "gae_lambda": 0.98,
+   "ent_coef": 0.001,
+   "clip_range": 0.1,
+   "net_arch": [
+    64,
+    64
+   ]
+  },
+  {
+   "id": 15,
+   "learning_rate": 0.0009060961181530995,
+   "n_steps": 4096,
+   "batch_size": 64,
+   "n_epochs": 10,
+   "gamma": 0.999,
+   "gae_lambda": 0.98,
+   "ent_coef": 0.01,
+   "clip_range": 0.1,
+   "net_arch": [
+    128,
+    128
+   ]
+  }
+ ]
+}

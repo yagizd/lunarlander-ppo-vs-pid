@@ -1,0 +1,10 @@
+.venv/
+.claude/
+__pycache__/
+*.pyc
+STATUS*.md
+prompts/
+results/kareler/
+docs/_gecici/
+*_asama5.md
+*.bak

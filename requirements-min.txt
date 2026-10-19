@@ -1,0 +1,9 @@
+# Directly used packages, pinned to the versions measured in this project (Python 3.13.5, Windows 11, CPU only).
+gymnasium[box2d]==1.4.0
+stable-baselines3==2.9.0
+moviepy==2.2.1
+matplotlib==3.11.2
+pandas==3.0.6
+numpy==2.5.4
+# torch is installed by stable-baselines3; pinned here only so results can be reproduced.
+torch==2.14.1

@@ -1,0 +1,17 @@
+{
+ "eval_hepsi_ayni": true,
+ "egitim_ayni": true,
+ "agirlik_ayni": true,
+ "egitim_adim": 50000,
+ "pip_sn": 295,
+ "egitim_iki_kosu_sn": 36,
+ "egitim_sn": [
+  31.8,
+  32.1
+ ],
+ "egitim_sps": [
+  1571.2,
+  1558.7
+ ],
+ "tekrar_ort": -280.6812926311439
+}

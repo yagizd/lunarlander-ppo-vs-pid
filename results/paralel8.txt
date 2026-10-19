@@ -1,0 +1,9 @@
+SONUC seed=0 sure=98.4 hiz=507.9
+SONUC seed=1 sure=98.7 hiz=506.6
+SONUC seed=2 sure=103.5 hiz=483.0
+SONUC seed=3 sure=98.3 hiz=508.4
+SONUC seed=4 sure=98.0 hiz=510.2
+SONUC seed=5 sure=99.5 hiz=502.3
+SONUC seed=6 sure=97.9 hiz=510.9
+SONUC seed=7 sure=107.6 hiz=464.7
+TOPLAM_DUVAR_SURESI 123.0
