@@ -133,3 +133,7 @@ The training logs record the game's real score, not the shaped one.
 - PPO: Schulman et al., "Proximal Policy Optimization Algorithms", 2017.
 - Idea inspired by the post "Training an AI to land a rocket with reward shaping" by Hari (@harixganesh).
 - The `heuristic` function in `gymnasium.envs.box2d.lunar_lander` was **not written by us**. It is a hand-tuned controller from the Gymnasium authors, used here only as a reference. The PID code in this repo was written from scratch.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
